@@ -16,9 +16,9 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 include_directories(${PROJECT_SOURCE_DIR}/src)
 
 add_library(tools src/tools.cc)
-add_executable(fechas
+add_executable(complejos
     src/funciones.h
-    src/fechas.cc
+    src/complejos.cc
     src/funciones.cc
 
 )

@@ -1,3 +1,13 @@
+/**
+ * Universidad de La Laguna
+ * Escuela Superior de Ingeniería y Tecnología
+ * Grado en Ingeniería Informática
+ * Informática Básica
+ *
+ * @author Mario Guerra Pérez
+ * @date 7-1-2021
+ * 
+ */
 #include "funciones.h"
 int main(){
     Complejo complejo1 (14,24);
